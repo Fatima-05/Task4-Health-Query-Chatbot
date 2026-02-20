@@ -32,4 +32,4 @@ The chatbot uses a pre-trained Large Language Model from Hugging Face (Mistral-7
 
 
 
-Notebook: 
+Notebook: https://colab.research.google.com/drive/12dMV065oVXbr2UEOLC0JHH3p5z_so51l?usp=sharing
